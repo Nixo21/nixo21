@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
 <h3 align="left">Socials:</h3>
-<p align="left"><a href="https://guns.lol/itsnotnixo" target="_blank"></a> 
+<p align="left"><a href="https://guns.lol/itsnotnixo" target="_blank"><img src="/gunslol.png" height="40px"></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
