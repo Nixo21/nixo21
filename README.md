@@ -1,8 +1,8 @@
-<h1 align="center">Hello 👋, I'm Nixo21</h1>
+<img width="1120" height="630" alt="image" src="https://github.com/user-attachments/assets/fa536564-218c-4277-8148-78546ac5b4b6" /><h1 align="center">Hello 👋, I'm Nixo21</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">Socials:</h3>
+<p align="left"><a href="https://guns.lol/itsnotnixo" target="_blank"></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
