@@ -19,8 +19,8 @@
     <a href="https://github.com/Nixo21">
       <img src="https://img.shields.io/badge/Poland-%F0%9F%87%B5%F0%9F%87%B1-18181b?style=for-the-badge" alt="Poland" />
     </a>
-    <a href="https://github.com/Nixo21">
-      <img src="https://komarev.com/ghpvc/?username=Nixo21&style=for-the-badge&color=8b5cf6&label=VIEWS" alt="Profile Views" />
+    <a href="https://github.com/Nixo21?tab=followers">
+      <img src="https://img.shields.io/github/followers/Nixo21?style=for-the-badge&logo=github&label=FOLLOWERS&color=8b5cf6" alt="Followers" />
     </a>
   </p>
 
@@ -144,8 +144,6 @@ links: https://guns.lol/itsnotnixo
 | 🏎️ **fivem_racing** | Advanced competitive racing system & race admin for FiveM with custom NUI timer, checkpoints & dynamic leaderboard | `Lua` `JavaScript` `HTML/CSS` | [🎥 Watch Preview](https://www.youtube.com/watch?v=a2qEpr-EtXE) |
 | ⚡ **StreamGrabber-Downloader** | High-performance browser extension video downloader that captures HLS/m3u8 media streams with premium-grade speed for free | `JavaScript` `HLS` `Extension API` | `🔒 Private Repo` |
 | 🎰 **manidrop** | Free CS2 case opening simulator featuring authentic drop odds, smooth animations, inventory & skin showcase | `JavaScript` `Node.js` `HTML5/CSS3` | `🔒 Private Repo` |
-| 🦷 **dentysta** | Interactive clinic presentation and modern responsive web UI | `JavaScript` `CSS` `HTML` | [View Repo ↗](https://github.com/Nixo21/dentysta) |
-| 🪙 **crypto** | Cryptocurrency tracking application & sleek dark market dashboard | `HTML` `CSS` `JavaScript` | [View Repo ↗](https://github.com/Nixo21/crypto) |
 
 > 🔒 *Note: Most client solutions, custom FiveM scripts, and enterprise tools are maintained in private repositories.*
 
