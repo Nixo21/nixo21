@@ -142,7 +142,7 @@ links: https://guns.lol/itsnotnixo
 | Project | Description | Primary Tech | Link / Status |
 | :--- | :--- | :--- | :---: |
 | 🏎️ **fivem_racing** | Advanced competitive racing system & race admin for FiveM with custom NUI timer, checkpoints & dynamic leaderboard | `Lua` `JavaScript` `HTML/CSS` | [🎥 Watch Preview](https://www.youtube.com/watch?v=a2qEpr-EtXE) |
-| ⚡ **StreamGrabber-Downloader** | High-performance browser extension video downloader that captures HLS/m3u8 media streams with premium-grade speed for free | `JavaScript` `HLS` `Extension API` | `🔒 Private Repo` |
+| ⚡ **StreamGrabber-Downloader** | High-performance browser extension video downloader that captures HLS/m3u8 media streams with premium-grade speed for free | `JavaScript` `HLS` `Extension API` | [View Repo ↗](https://github.com/Nixo21/StreamGrabber-Downloader) |
 | 🎰 **manidrop** | Free CS2 case opening simulator featuring authentic drop odds, smooth animations, inventory & skin showcase | `JavaScript` `Node.js` `HTML5/CSS3` | `🔒 Private Repo` |
 
 > 🔒 *Note: Most client solutions, custom FiveM scripts, and enterprise tools are maintained in private repositories.*
